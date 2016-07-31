@@ -1,9 +1,13 @@
 # Custom Snippets
 
-Code snippet for creating custom snippets or creating your own snippets
+Code snippet for creating custom snippets or creating your own snippets.
 
+## Demo
+
+Custom Snippets: Single
 ![Custom Snippets: Single](./images/demo_cs_single.gif "Custom Snippets: Single")
 
+Custom Snippets: Multiple
 ![Custom Snippets: Multiple](./images/demo_cs_multiple.gif "Custom Snippets: Multiple")
 
 ## Installation
@@ -20,5 +24,5 @@ Type snippet prefix, it will appear in IntelliSense, if it doesn't, press **Ctrl
 
 Snippet Name | Prefix
 --- | ---
-Custom Snippets: Single | `customSnippetSingle`
-Custom Snippets: Multiple | `customSnippetMultiple`
+Custom Snippets: Single | `custom snippet: single`
+Custom Snippets: Multiple | `custom snippet: multiple`

@@ -1,6 +1,6 @@
 {
     "Custom Snippets: Single": {
-        "prefix": "customSnippetSingle",
+        "prefix": "custom snippet: single",
         "body": [
             "\"${1:name}\": {",
             "\t\"prefix\": \"${2:prefix}\",",
@@ -11,7 +11,7 @@
         "description": "Custom snippet with single line body"
     },
     "Custom Snippets: Multiple": {
-        "prefix": "customSnippetMultiple",
+        "prefix": "custom snippet: multiple",
         "body": [
             "\"${1:name}\": {",
             "\t\"prefix\": \"${2:prefix}\",",
