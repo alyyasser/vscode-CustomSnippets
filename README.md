@@ -12,7 +12,7 @@ Code snippet for creating custom snippets or creating your own snippets.
 
 ## Installation
 
-- Visit [VSCode Market: Custom Snippets](http://).
+- Visit [VSCode Market: Custom Snippets](https://marketplace.visualstudio.com/items?itemName=NgekNgok.vscode-custom-snippets).
 - Or open VSCode, press **F1** then type the command below, and press **Enter** to install.
 ```
 ext install vscode-custom-snippets
