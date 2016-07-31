@@ -18,6 +18,6 @@ ext install vscode-custom-snippets
 
 Type snippet prefix, it will appear in IntelliSense, if it doesn't, press **Ctrl+Space**, then press **Enter** to insert the snippet.
 Snippet Name | Prefix
---- | :---:
+------------ | ------
 Custom Snippets: Single | `customSnippetSingle`
 Custom Snippets: Multiple | `customSnippetMultiple`
