@@ -1,0 +1,18 @@
+{
+    "name": "vscode-custom-snippets",
+    "displayName": "Custom Snippets",
+    "version": "0.0.1",
+    "publisher": "NgekNgok",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [{
+            "language": "json",
+            "path": "./snippets/snippets.json"
+        }]
+    }
+}
