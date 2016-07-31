@@ -4,10 +4,9 @@
     "description": "Code snippet for creating custom snippets or own snippets",
     "version": "1.0.0",
     "publisher": "NgekNgok",
-    // "icon": "images/icon.png",
     "galleryBanner": {
         "color": "#F44336",
-        "theme": "light"
+        "theme": "dark"
     },
     "bugs": {
         "url": "https://github.com/alyyasser/vscode-CustomSnippets/issues"
