@@ -2,8 +2,21 @@
     "name": "vscode-custom-snippets",
     "displayName": "Custom Snippets",
     "description": "Code snippet for creating custom snippets or own snippets",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "NgekNgok",
+    // "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#F44336",
+        "theme": "light"
+    },
+    "bugs": {
+        "url": "https://github.com/alyyasser/vscode-CustomSnippets/issues"
+    },
+    "homepage": "https://github.com/alyyasser/vscode-CustomSnippets/blob/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/alyyasser/vscode-CustomSnippets.git"
+    },
     "engines": {
         "vscode": "^1.0.0"
     },
