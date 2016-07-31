@@ -1,0 +1,26 @@
+{
+    "Custom Snippets: Single": {
+        "prefix": "customSnippetSingle",
+        "body": [
+            "\"${1:name}\": {",
+            "\t\"prefix\": \"${2:prefix}\",",
+            "\t\"body\": \"$0\",",
+            "\t\"description\": \"${3:description}\"",
+            "}"
+        ],
+        "description": "Custom snippet with single line body"
+    },
+    "Custom Snippets: Multiple": {
+        "prefix": "customSnippetMultiple",
+        "body": [
+            "\"${1:name}\": {",
+            "\t\"prefix\": \"${2:prefix}\",",
+            "\t\"body\": [",
+            "\t\t$0",
+            "\t],",
+            "\t\"description\": \"${3:description}\"",
+            "}"
+        ],
+        "description": "Custom snippet with multiple line body"
+    }
+}
