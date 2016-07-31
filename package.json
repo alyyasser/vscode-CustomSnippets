@@ -2,7 +2,7 @@
     "name": "vscode-custom-snippets",
     "displayName": "Custom Snippets",
     "description": "Code snippet for creating custom snippets or own snippets",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "NgekNgok",
     "galleryBanner": {
         "color": "#F44336",
