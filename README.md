@@ -18,7 +18,7 @@
 
 ## Installation
 
-1. Visit [VSCode Market: Custom Snippets][marketplace-url].<br><br>OR
+1. Visit [VSCode Market: Custom Snippets][marketplace-url].<br><br>**OR**
 
 2. By VSCode
    * Open VSCode
@@ -30,20 +30,20 @@
      ```
    * Press **Enter** to search the extension
    * Select **Custom Snippets** 
-   * Install.
+   * Install
 
 > **Tip:** If you open [README][readme-url] on GitHub, you can install [Clipboardy][clipboardy-chrome-webstore], a Chrome extension, for copying the command listed above to clipboard.
 > For more information, please visit [Clipboardy Chrome Extension Homepage][clipboardy-homepage].
 
 ## Usage
 
-Type snippet prefix, and IntelliSense will show the snippet. If IntelliSense doesn't show the snippet, press **Ctrl+Space**, then press **Enter** to insert the snippet.
+Type snippet prefix, and IntelliSense will show the snippet. If IntelliSense doesn't show the snippet, press **Ctrl+Space** and then **Enter** to insert the snippet.
 
 Snippet Name | Prefix | Description
 --- | --- | ---
-[snippetSingleLine][demo-single-src-url] | `snippet-single` | [Create custom snippet with a single body][demo-single-url]
-[snippetMultiLine][demo-multiple-src-url] | `snippet-multi` | [Create custom snippet with multiple lines][demo-multiple-url]
-[snippetMultiLineBody][demo-body-src-url] | `snippet-multi-body` | [Add another snippet on body to multi-line custom snippet][demo-body-url]
+[snippetSingleLine][demo-single-src-url] | `snippet-single` | [Create a custom snippet with a single body][demo-single-url]
+[snippetMultiLine][demo-multiple-src-url] | `snippet-multi` | [Create a custom snippet with multiple lines][demo-multiple-url]
+[snippetMultiLineBody][demo-body-src-url] | `snippet-multi-body` | [Add another snippet on the body of multi-line custom snippet][demo-body-url]
 
 [marketplace-url]: https://marketplace.visualstudio.com/items?itemName=NgekNgok.vscode-custom-snippets
 [readme-url]: https://github.com/alyyasser/vscode-CustomSnippets/blob/master/README.md
