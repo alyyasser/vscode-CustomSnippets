@@ -39,10 +39,10 @@ OR
 
 ## Usage
 
-Type snippet prefix, and it will appear in IntelliSense. if it doesn't, press **Ctrl+Space**, then press **Enter** to insert the snippet.
+Type snippet prefix, and IntelliSense will show the snippet. If IntelliSense doesn't show the snippet, press **Ctrl+Space**, then press **Enter** to insert the snippet.
 
 Snippet Name | Prefix | Description
 --- | --- | ---
-snippetSingleLine | `snippet-single` | Create Custom or User snippet with single line body
-snippetMultiLine | `snippet-multi` | Create Custom or User snippet with multiple line body
-snippetMultiLineBody | `snippet-multi-body` | Add snippet body to multi-line Custom or User snippet
+snippetSingleLine | `snippet-single` | Create custom snippet with a single body
+snippetMultiLine | `snippet-multi` | Create custom snippet with multiple lines
+snippetMultiLineBody | `snippet-multi-body` | Add another snippet on body to multi-line custom snippet
