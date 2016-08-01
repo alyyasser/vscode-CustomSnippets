@@ -4,7 +4,7 @@
 
 ## Demo
 
-### Custom Snippets: Single Line
+#### Custom Snippets: Single Line
 
 ![Custom Snippets: Single-line][demo-single-img]
 
@@ -48,7 +48,7 @@ snippetMultiLineBody | `snippet-multi-body` | Add another snippet on body to mul
 [marketplace-url]: https://marketplace.visualstudio.com/items?itemName=NgekNgok.vscode-custom-snippets
 [readme-url]: https://github.com/alyyasser/vscode-CustomSnippets/blob/master/README.md
 
-[demo-single-url]: README.md#custom-snippets:-single-line
+[demo-single-url]: #custom-snippets-single-line
 [demo-single-img]: images/demo-single.gif "Create Custom or User snippet with single line body"
 [demo-multiple-img]: images/demo-multiple.gif "Create Custom or User snippet with multiple line body"
 [demo-body-img]: images/demo-body.gif "Add snippet body to multi-line Custom or User snippet"
