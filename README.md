@@ -4,11 +4,17 @@ Code snippet for creating custom snippets or creating your own snippets.
 
 ## Demo
 
-- Custom Snippets: Single
-![Custom Snippets: Single](./images/demo_cs_single.gif "Custom Snippets: Single")
+- Custom Snippets: Single-Line
 
-- Custom Snippets: Multiple
-![Custom Snippets: Multiple](./images/demo_cs_multiple.gif "Custom Snippets: Multiple")
+![Custom Snippets: Single-line](./images/demo_cs_single.gif "Create Custom or User snippet with single line body")
+
+- Custom Snippets: Multi-Line
+
+![Custom Snippets: Multi-line](./images/demo_cs_multi.gif "Create Custom or User snippet with multiple line body")
+
+- Custom Snippets: Multi-Line Body
+
+![Custom Snippets: Multiple-line body](./images/demo_cs_multi_body.gif "Add snippet body to multi-line Custom or User snippet")
 
 ## Installation
 
@@ -17,8 +23,7 @@ Code snippet for creating custom snippets or creating your own snippets.
 ```
 ext install vscode-custom-snippets
 ```
-> **Tip:** If you open [README](https://github.com/alyyasser/vscode-CustomSnippets/blob/master/README.md) on GitHub,
-> you can install [Clipboardy](https://chrome.google.com/webstore/detail/clipboardy/gkafpbdjggkmmngaamlghmigadfaalhc) Chrome extension for copying the command above to clipboard.
+> **Tip:** If you open [README](https://github.com/alyyasser/vscode-CustomSnippets/blob/master/README.md) on GitHub, you can install [Clipboardy](https://chrome.google.com/webstore/detail/clipboardy/gkafpbdjggkmmngaamlghmigadfaalhc) Chrome extension for copying the command above to clipboard.
 > For more information, visit [Clipboardy Chrome Extension Homepage](https://rainsoft.io/clipboardy-chrome-extension/). 
 
 ## Usage
@@ -27,5 +32,6 @@ Type snippet prefix, it will appear in IntelliSense, if it doesn't, press **Ctrl
 
 Snippet Name | Prefix | Description
 --- | --- | ---
-Custom Snippets: Single | `custom snippet: single` | Custom snippet with single line body
-Custom Snippets: Multiple | `custom snippet: multiple` | Custom snippet with multiple line body
+snippetSingleLine | `snippet-single` | Create Custom or User snippet with single line body
+snippetMultiLine | `snippet-multi` | Create Custom or User snippet with multiple line body
+snippetMultiLineBody | `snippet-multi-body` | Add snippet body to multi-line Custom or User snippet

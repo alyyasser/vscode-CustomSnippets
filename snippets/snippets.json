@@ -1,6 +1,6 @@
 {
-    "Custom Snippets: Single": {
-        "prefix": "custom snippet: single",
+    "snippetSingleLine": {
+        "prefix": "snippet-single",
         "body": [
             "\"${1:name}\": {",
             "\t\"prefix\": \"${2:prefix}\",",
@@ -8,10 +8,10 @@
             "\t\"description\": \"${3:description}\"",
             "}"
         ],
-        "description": "Custom snippet with single line body"
+        "description": "Create Custom or User snippet with single line body"
     },
-    "Custom Snippets: Multiple": {
-        "prefix": "custom snippet: multiple",
+    "snippetMultiLine": {
+        "prefix": "snippet-multi",
         "body": [
             "\"${1:name}\": {",
             "\t\"prefix\": \"${2:prefix}\",",
@@ -21,6 +21,11 @@
             "\t\"description\": \"${3:description}\"",
             "}"
         ],
-        "description": "Custom snippet with multiple line body"
+        "description": "Create Custom or User snippet with multiple line body"
+    },
+    "snippetMultiLineBody": {
+        "prefix": "snippet-multi-body",
+        "body": "\"${1:body}\"$0",
+        "description": "Add snippet body to multi-line Custom or User snippet"
     }
 }
