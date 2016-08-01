@@ -42,7 +42,7 @@ Type snippet prefix, and IntelliSense will show the snippet. If IntelliSense doe
 Snippet Name | Prefix | Description
 --- | --- | ---
 [snippetSingleLine][demo-single-src-url] | `snippet-single` | [Create custom snippet with a single body][demo-single-url]
-snippetMultiLine | `snippet-multi` | Create custom snippet with multiple lines
+snippetMultiLine | ```snippet-multi``` | Create custom snippet with multiple lines
 snippetMultiLineBody | `snippet-multi-body` | Add another snippet on body to multi-line custom snippet
 
 [marketplace-url]: https://marketplace.visualstudio.com/items?itemName=NgekNgok.vscode-custom-snippets
