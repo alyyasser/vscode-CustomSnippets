@@ -41,7 +41,7 @@ Type snippet prefix, and IntelliSense will show the snippet. If IntelliSense doe
 
 Snippet Name | Prefix | Description
 --- | --- | ---
-snippetSingleLine | `snippet-single` | [Create custom snippet with a single body][demo-single-url]
+[snippetSingleLine][demo-single-src-url] | `snippet-single` | [Create custom snippet with a single body][demo-single-url]
 snippetMultiLine | `snippet-multi` | Create custom snippet with multiple lines
 snippetMultiLineBody | `snippet-multi-body` | Add another snippet on body to multi-line custom snippet
 
@@ -49,6 +49,7 @@ snippetMultiLineBody | `snippet-multi-body` | Add another snippet on body to mul
 [readme-url]: https://github.com/alyyasser/vscode-CustomSnippets/blob/master/README.md
 
 [demo-single-url]: #custom-snippets-single-line
+[demo-single-src-url]: snippets/snippets.json#L2
 [demo-single-img]: images/demo-single.gif "Create Custom or User snippet with single line body"
 [demo-multiple-img]: images/demo-multiple.gif "Create Custom or User snippet with multiple line body"
 [demo-body-img]: images/demo-body.gif "Add snippet body to multi-line Custom or User snippet"
