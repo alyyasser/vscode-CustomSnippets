@@ -22,8 +22,7 @@ Code snippet for creating your own snippets.
 2. By VSCode
    * Open VSCode
    * Launch VS Code Quick Open (press **Ctrl+P**) 
-   * Paste the following command
-   
+   * Paste the following command<br>
      ```
      ext install vscode-custom-snippets
      ```
