@@ -6,15 +6,15 @@
 
 #### Custom Snippets: Single Line
 
-![Custom Snippets: Single-line][demo-single-img]
+![Custom Snippets: Single-line](images/demo-single.gif "Create Custom or User snippet with single line body")
 
 #### Custom Snippets: Multiple Lines
 
-![Custom Snippets: Multi-line][demo-multiple-img]
+![Custom Snippets: Multi-line](images/demo-multiple.gif "Create Custom or User snippet with multiple line body")
 
 #### Custom Snippets: Multiple Lines on Body
 
-![Custom Snippets: Multiple-line body][demo-body-img]
+![Custom Snippets: Multiple-line body](images/demo-body.gif "Add snippet body to multi-line Custom or User snippet")
 
 ## Installation
 
@@ -41,24 +41,16 @@ Type snippet prefix, and IntelliSense will show the snippet. If IntelliSense doe
 
 Snippet Name | Prefix | Description
 --- | --- | ---
-[snippetSingleLine][demo-single-src-url] | `snippet-single` | [Create a custom snippet with a single body][demo-single-url]
-[snippetMultiLine][demo-multiple-src-url] | `snippet-multi` | [Create a custom snippet with multiple lines][demo-multiple-url]
-[snippetMultiLineBody][demo-body-src-url] | `snippet-multi-body` | [Add another snippet on the body of multi-line custom snippet][demo-body-url]
+[snippetSingleLine][demo-single-src] | `snippet-single` | Create a custom snippet with a single body
+[snippetMultiLine][demo-multiple-src] | `snippet-multi` | Create a custom snippet with multiple lines
+[snippetMultiLineBody][demo-body-src] | `snippet-multi-body` | Add another snippet on the body of multi-line custom snippet
 
 [marketplace-url]: https://marketplace.visualstudio.com/items?itemName=NgekNgok.vscode-custom-snippets
 [readme-url]: https://github.com/alyyasser/vscode-CustomSnippets/blob/master/README.md
 
-[demo-single-url]: #custom-snippets-single-line
-[demo-single-src-url]: snippets/snippets.json#L2
-[demo-single-img]: images/demo-single.gif "Create Custom or User snippet with single line body"
-
-[demo-multiple-url]: #custom-snippets-multiple-lines
-[demo-multiple-src-url]: snippets/snippets.json#L13
-[demo-multiple-img]: images/demo-multiple.gif "Create Custom or User snippet with multiple line body"
-
-[demo-body-url]: #custom-snippets-multiple-lines-on-body
-[demo-body-src-url]: snippets/snippets.json#L26
-[demo-body-img]: images/demo-body.gif "Add snippet body to multi-line Custom or User snippet"
+[demo-single-src]: https://github.com/alyyasser/vscode-CustomSnippets/blob/75d2d095bbdd2412bf4c1cc25ab0a209deaa45bd/snippets/snippets.json#L2
+[demo-multiple-src]: https://github.com/alyyasser/vscode-CustomSnippets/blob/75d2d095bbdd2412bf4c1cc25ab0a209deaa45bd/snippets/snippets.json#L13
+[demo-body-src]: https://github.com/alyyasser/vscode-CustomSnippets/blob/75d2d095bbdd2412bf4c1cc25ab0a209deaa45bd/snippets/snippets.json#L26
 
 [clipboardy-chrome-webstore]: https://chrome.google.com/webstore/detail/clipboardy/gkafpbdjggkmmngaamlghmigadfaalhc
 [clipboardy-homepage]: https://rainsoft.io/clipboardy-chrome-extension
