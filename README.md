@@ -18,24 +18,21 @@ Code snippet for creating your own snippets.
 
 ## Installation
 
-- Visit [VSCode Market: Custom Snippets](https://marketplace.visualstudio.com/items?itemName=NgekNgok.vscode-custom-snippets).
-OR
+1. Visit [VSCode Market: Custom Snippets](https://marketplace.visualstudio.com/items?itemName=NgekNgok.vscode-custom-snippets).<br><br>OR
 
-- By VSCode
+2. By VSCode
+   * Open VSCode
+   * Launch VS Code Quick Open (press **Ctrl+P**) 
+   * Paste the following command
+     ```
+     ext install vscode-custom-snippets
+     ```
+   * Press **Enter** to search the extension
+   * Select **Custom Snippets** 
+   * Install.
 
-  - Open VSCode
-  - Launch VS Code Quick Open (press **Ctrl+P**) 
-  - Paste the following command
-      ```
-      ext install vscode-custom-snippets
-      ```
-    
-  - Press **Enter** to search the extension
-  - Select **Custom Snippets** 
-  - Install.
-
-> **Tip:** If you open [README](https://github.com/alyyasser/vscode-CustomSnippets/blob/master/README.md) on GitHub, you can install [Clipboardy](https://chrome.google.com/webstore/detail/clipboardy/gkafpbdjggkmmngaamlghmigadfaalhc),a Chrome extension for copying the command above, to clipboard.
-> For more information, please visit [Clipboardy Chrome Extension Homepage](https://rainsoft.io/clipboardy-chrome-extension/). 
+> **Tip:** If you open [README](https://github.com/alyyasser/vscode-CustomSnippets/blob/master/README.md) on GitHub, you can install [Clipboardy](https://chrome.google.com/webstore/detail/clipboardy/gkafpbdjggkmmngaamlghmigadfaalhc), a Chrome extension, for copying the command listed above to clipboard.
+> For more information, please visit [Clipboardy Chrome Extension Homepage](https://rainsoft.io/clipboardy-chrome-extension/).
 
 ## Usage
 
