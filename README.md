@@ -23,16 +23,16 @@ OR
 
 - By VSCode
 
-1. Open VSCode
-2. Launch VS Code Quick Open (press **Ctrl+P**) 
-3. Paste the following command
-    ```
-    ext install vscode-custom-snippets
-    ```
+  1. Open VSCode
+  2. Launch VS Code Quick Open (press **Ctrl+P**) 
+  3. Paste the following command
+      ```
+      ext install vscode-custom-snippets
+      ```
     
-4. Press **Enter** to search the extension
-5. Select **Custom Snippets** 
-6. Install.
+  4. Press **Enter** to search the extension
+  5. Select **Custom Snippets** 
+  6. Install.
 
 > **Tip:** If you open [README](https://github.com/alyyasser/vscode-CustomSnippets/blob/master/README.md) on GitHub, you can install [Clipboardy](https://chrome.google.com/webstore/detail/clipboardy/gkafpbdjggkmmngaamlghmigadfaalhc),a Chrome extension for copying the command above, to clipboard.
 > For more information, please visit [Clipboardy Chrome Extension Homepage](https://rainsoft.io/clipboardy-chrome-extension/). 
