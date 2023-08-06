@@ -37,7 +37,9 @@
 
 ## Usage
 
-Type snippet prefix, and IntelliSense will show the snippet. If IntelliSense doesn't show the snippet, press **Ctrl+Space** and then **Enter** to insert the snippet.
+Start by pressing `ctrl+shift+p` to open the commands and search `snippets` select the configure snippets and setup your custom snippet file.
+
+Inside of a file type snippet prefix, and IntelliSense will show the snippet. If IntelliSense doesn't show the snippet, press **Ctrl+Space** and then **Enter** to insert the snippet.
 
 Snippet Name | Prefix | Description
 --- | --- | ---
